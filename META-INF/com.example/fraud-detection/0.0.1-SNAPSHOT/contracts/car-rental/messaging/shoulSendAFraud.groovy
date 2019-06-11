@@ -9,6 +9,6 @@ Contract.make {
 
     outputMessage {
         sentTo "frauds"
-        body(surname: "m")
+        body(name: "m")
     }
 }
