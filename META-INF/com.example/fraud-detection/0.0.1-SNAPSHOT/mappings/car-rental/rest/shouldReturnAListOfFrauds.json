@@ -1,5 +1,5 @@
 {
-  "id" : "d2b5fd0c-8d2f-4a23-a5c0-20fd575ce4a7",
+  "id" : "c1b4c366-7372-4a1e-86cd-3a36aca241fc",
   "request" : {
     "url" : "/frauds",
     "method" : "GET"
@@ -12,5 +12,5 @@
     },
     "transformers" : [ "response-template" ]
   },
-  "uuid" : "d2b5fd0c-8d2f-4a23-a5c0-20fd575ce4a7"
+  "uuid" : "c1b4c366-7372-4a1e-86cd-3a36aca241fc"
 }
