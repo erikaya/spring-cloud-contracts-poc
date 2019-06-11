@@ -1,0 +1,16 @@
+{
+  "id" : "ef41c86d-baac-41f9-a13e-3ad12cb738dc",
+  "request" : {
+    "url" : "/frauds",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[\"marcin\",\"josh\"]",
+    "headers" : {
+      "Content-Type" : "application/json"
+    },
+    "transformers" : [ "response-template" ]
+  },
+  "uuid" : "ef41c86d-baac-41f9-a13e-3ad12cb738dc"
+}
